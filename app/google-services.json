@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "999438470781",
+    "project_id": "czajbraryapp",
+    "storage_bucket": "czajbraryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999438470781:android:5fb4945037f90b1afcab14",
+        "android_client_info": {
+          "package_name": "com.example.czajbraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999438470781-4rasjjoh7kqs8bksqs5avih9bmbpelpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.czajbraryapp",
+            "certificate_hash": "429df808be32747712b8b189d1fd186e49b295d3"
+          }
+        },
+        {
+          "client_id": "999438470781-g1lo1tch6c57plpoemifm2i7esu5t993.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLx1prcJrVkQUqP9-d0auzdPAiKfZoWBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999438470781-g1lo1tch6c57plpoemifm2i7esu5t993.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
