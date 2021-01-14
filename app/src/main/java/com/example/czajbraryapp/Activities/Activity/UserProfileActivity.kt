@@ -170,7 +170,7 @@ class UserProfileActivity : BaseActivity(), View.OnClickListener {
         ).show()
 
         //go to main page
-        startActivity(Intent(this@UserProfileActivity, MainActivity::class.java))
+        startActivity(Intent(this@UserProfileActivity, DashboardActivity::class.java))
         finish()
     }
 
